@@ -135,7 +135,6 @@ The model predicts whether the entered news article is:
 **Tushar Kumar**
 
 - GitHub: https://github.com/Tusshh
-- LinkedIn: www.linkedin.com/in/tusharkumar30
 
 ---
 
